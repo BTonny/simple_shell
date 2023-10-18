@@ -1,4 +1,4 @@
-A Simple Shell project
+## A Simple Shell project
 
 By:
 * Vivian Namirimo
