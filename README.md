@@ -1,6 +1,6 @@
 ## A Simple Shell project
 
-By:
+Group Members:
 * Vivian Namirimo
 * Tonny Bawembye
 
